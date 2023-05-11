@@ -123,6 +123,7 @@ np.mean(predict(res.x,X)==y)
 ![Screenshot 2023-05-11 155238](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/3d9afb2e-3520-4ab7-a959-1685a95c48cb)
 
 #### Exam 1 - score graph
+![Screenshot 2023-05-11 161150](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/6c725e84-829f-459b-9dab-ec3c9c4316fb)
 
 
 #### Sigmoid function graph
@@ -138,7 +139,8 @@ np.mean(predict(res.x,X)==y)
 ![Screenshot 2023-05-11 155723](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/16c592fc-3657-4346-bdb5-c27acad5a7f8)
 
 #### Decision boundary - graph for exam score
-![Uploading Screenshot 2023-05-11 155730.png…]()
+![Screenshot 2023-05-11 155730](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/beecf6cd-c08f-47df-bb02-00eadb43d41f)
+
 
 #### Proability value 
 ![Screenshot 2023-05-11 155822](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/b92b63f4-f532-462a-8593-d86f4cc83efd)
