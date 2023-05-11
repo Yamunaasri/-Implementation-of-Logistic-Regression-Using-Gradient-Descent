@@ -116,35 +116,35 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-1. Array Value of x
-2. ![Screenshot 2023-05-11 155230](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/033e44c7-01d8-4694-af58-e47e586bc326)
+#### Array Value of x
+![Screenshot 2023-05-11 155230](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/033e44c7-01d8-4694-af58-e47e586bc326)
 
-3. Array Value of y
-4. ![Screenshot 2023-05-11 155238](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/3d9afb2e-3520-4ab7-a959-1685a95c48cb)
+#### Array Value of y
+![Screenshot 2023-05-11 155238](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/3d9afb2e-3520-4ab7-a959-1685a95c48cb)
 
-5. Exam 1 - score graph
+#### Exam 1 - score graph
 
 
-7. Sigmoid function graph
-8. ![Screenshot 2023-05-11 155309](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/b114a544-ffeb-42c5-a36d-e6bdb52a65ea)
+#### Sigmoid function graph
+![Screenshot 2023-05-11 155309](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/b114a544-ffeb-42c5-a36d-e6bdb52a65ea)
 
-9. X_train_grad value
-10. ![Screenshot 2023-05-11 155324](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/6d006193-6d73-44d9-8290-4d82eb608d7e)
+#### X_train_grad value
+![Screenshot 2023-05-11 155324](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/6d006193-6d73-44d9-8290-4d82eb608d7e)
 
-6 Y_train_grad value
+#### Y_train_grad value
 ![Screenshot 2023-05-11 155335](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/71194e2e-7353-4bf9-93d7-027575624256)
 
-7. Print res.x
-8. ![Screenshot 2023-05-11 155723](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/16c592fc-3657-4346-bdb5-c27acad5a7f8)
+#### Print res.x
+![Screenshot 2023-05-11 155723](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/16c592fc-3657-4346-bdb5-c27acad5a7f8)
 
-9. Decision boundary - graph for exam score
-10. ![Uploading Screenshot 2023-05-11 155730.png…]()
+#### Decision boundary - graph for exam score
+![Uploading Screenshot 2023-05-11 155730.png…]()
 
-11. Proability value 
-12. ![Screenshot 2023-05-11 155822](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/b92b63f4-f532-462a-8593-d86f4cc83efd)
+#### Proability value 
+![Screenshot 2023-05-11 155822](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/b92b63f4-f532-462a-8593-d86f4cc83efd)
 
-13. Prediction value of mean
-14. ![Screenshot 2023-05-11 155829](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/f8ee18ed-c208-47d9-ac94-7704d6852df1)
+#### Prediction value of mean
+![Screenshot 2023-05-11 155829](https://github.com/Yamunaasri/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/115707860/f8ee18ed-c208-47d9-ac94-7704d6852df1)
 
 
 ## Result:
